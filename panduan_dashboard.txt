@@ -1,0 +1,5 @@
+[PANDUAN MENJALANKAN DASHBOARD INTERAKTIF]
+1. Pastikan pustaka yang dibutuhkan sudah terinstal (streamlit, pandas, plotly).
+2. Buka terminal pada folder studi kasus ini.
+3. Jalankan perintah: streamlit run app_dashboard.py
+4. Akses antarmuka melalui browser lokal Anda (http://localhost:8501).
